@@ -17,5 +17,5 @@ A simple and fun **Stone-Paper-Ceaser** (aka Rock-Paper-Scissors) game made with
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/Stone-Paper-Ceaser.git
+git clone https://github.com/Anishmote/Stone-Paper-Ceaser.git
 cd Stone-Paper-Ceaser
